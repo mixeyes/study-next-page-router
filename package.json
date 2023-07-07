@@ -6,7 +6,12 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "lint:fix": "next lint --fix",
+    "format": "prettier ./**/*.{html,ts,tsx,json,md,scss} --check",
+    "format:fix": "npm run format -- --write",
+    "create:db": "ts-node ./src/services/db/scripts/createTables",
+    "add-data": "ts-node ./src/services/db/scripts/addData"
   },
   "dependencies": {
     "@types/node": "20.4.0",
