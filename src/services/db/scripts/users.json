@@ -1,0 +1,26 @@
+[
+    {
+      "last_name": "last_name1",
+      "first_name": "first_name1",
+      "email": "email1@email.net",
+      "username": "testuser1",
+      "password": "testpassword1",
+      "role": "admin"
+    },
+    {
+      "last_name": "last_name2",
+      "first_name": "first_name2",
+      "email": "email2@email.net",
+      "username": "testuser2",
+      "password": "testpassword2",
+      "role": "user"
+    },
+    {
+      "last_name": "last_name3",
+      "first_name": "first_name3",
+      "email": "email3@email.net",
+      "username": "testuser3",
+      "password": "testpassword3",
+      "role": "user"
+    }
+]

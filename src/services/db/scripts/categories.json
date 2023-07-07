@@ -1,0 +1,97 @@
+    [
+        {
+        "name": "Camera & Photo",
+        "path": "photo",
+        "img_url": "/imgs/No-Image-Placeholder.svg"
+        },
+        {
+        "name": "Phones & Accessories",
+        "path": "phones",
+        "img_url": "/imgs/No-Image-Placeholder.svg"
+        },
+        {
+        "name": "TV & Home Theatre",
+        "path": "tv",
+        "img_url": "/imgs/No-Image-Placeholder.svg"
+        },
+        {
+        "name": "Audio & HiFi",
+        "path": "audio",
+        "img_url": "/imgs/No-Image-Placeholder.svg"
+        },
+        {
+        "name": "Musical Instruments & DJ Equipment",
+        "path": "musical-instruments",
+        "img_url": "/imgs/No-Image-Placeholder.svg"
+        },
+        {
+        "name": "Navigation & Car HiFi",
+        "path": "car-hifi",
+        "img_url": "/imgs/No-Image-Placeholder.svg"
+        },
+        {
+        "name": "Electronics Accessories",
+        "path": "electronics-sccessories",
+        "img_url": "/imgs/No-Image-Placeholder.svg"
+        },
+        {
+        "name": "Consoles & Game Accessories",
+        "path": "game-sccessories",
+        "img_url": "/imgs/No-Image-Placeholder.svg"
+        },
+        {
+        "name": "Household Appliances & Vacuums",
+        "path": "household-appliances",
+        "img_url": "/imgs/No-Image-Placeholder.svg"
+        },
+        {
+        "name": "Large Appliances",
+        "path": "large-appliances",
+        "img_url": "/imgs/No-Image-Placeholder.svg"
+        },
+        {
+        "name": "All Products",
+        "path": "all-products",
+        "img_url": "/imgs/No-Image-Placeholder.svg"
+        },
+        {
+        "name": "PCs & Laptops",
+        "path": "pc-laptops",
+        "img_url": "/imgs/No-Image-Placeholder.svg"
+        },
+        {
+        "name": "Tablets",
+        "path": "tablets",
+        "img_url": "/imgs/No-Image-Placeholder.svg"
+        },
+        {
+        "name": "Computer Accessories",
+        "path": "computer-accessories",
+        "img_url": "/imgs/No-Image-Placeholder.svg"
+        },
+        {
+        "name": "Computer Components",
+        "path": "computer-components",
+        "img_url": "/imgs/No-Image-Placeholder.svg"
+        },
+        {
+        "name": "Software",
+        "path": "software",
+        "img_url": "/imgs/No-Image-Placeholder.svg"
+        },
+        {
+        "name": "PC & Video Games",
+        "path": "video-games",
+        "img_url": "/imgs/No-Image-Placeholder.svg"
+        },
+        {
+        "name": "Printers & Ink",
+        "path": "printers",
+        "img_url": "/imgs/No-Image-Placeholder.svg"
+        },
+        {
+        "name": "Stationery & Office Supplies",
+        "path": "office-supplies",
+        "img_url": "/imgs/No-Image-Placeholder.svg"
+        },
+    ];
